@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.3.7",
+      "version": "1.3.8",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.3.7.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.7.rbz",
-      "sha256": "9c79ca5f0ccf291ce32a33cfe19e49f30cb5476796dd5d5acb71555beb45d1a6",
-      "size": 73283,
-      "notes": "Hỗ trợ cài/cập nhật Di chuyển theo cạnh. Plugin mới chưa nhận diện không chặn kiểm tra bản Tools mới. Giữ nút Hủy và giới hạn chờ mạng của 1.3.6."
+      "filename": "81ART_Tools_v1.3.8.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.8.rbz",
+      "sha256": "c6dd5b4a4e26c3b3ab77603c693179a03998cd2e36f461d2c7cc2e500f3fad73",
+      "size": 76177,
+      "notes": "Thêm Gỡ bỏ plugin 81ART cài riêng trong Quản lý công cụ. Giữ bản sao mã và thiết lập; phục hồi khi di chuyển file bị lỗi; cần mở lại SketchUp sau khi gỡ."
     },
     {
       "id": "styles",
@@ -89,12 +89,12 @@
       "id": "cleanup",
       "name": "81ART Cleanup",
       "loader": "art81_cleanup.rb",
-      "version": "1.0.0",
-      "filename": "81ART_Cleanup_v1.0.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cleanup_v1.0.0.rbz",
-      "sha256": "f8ebceb6c84a1815792203a0f0e2c42a06380340bcc9988465224ad70b808ed0",
-      "size": 7781,
-      "notes": "Dọn component, vật liệu, tag và style không sử dụng; chọn từng loại và xem báo cáo."
+      "version": "1.1.0",
+      "filename": "81ART_Cleanup_v1.1.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cleanup_v1.1.0.rbz",
+      "sha256": "132840b9ac73e50143dfcf65e4d45a2f4dbeedd57ed574bc2d9568a0713820e1",
+      "size": 11414,
+      "notes": "Thêm xóa line chia đồng phẳng và line rời, giữ đường bao/lỗ mở/cạnh góc. Chọn tủ hoặc group → xem trước line đỏ → xác nhận xóa; Ctrl+Z. Giữ tính năng dọn tài nguyên và cùng icon."
     },
     {
       "id": "cladding",
