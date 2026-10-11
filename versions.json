@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.3.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.0.rbz",
-      "sha256": "773b79b31a9a1355c8db5315742a398471c88f92f97356d24d042cafaf5fee18",
-      "size": 70017,
-      "notes": "Thêm kiểm tra phiên bản và tải cập nhật từ GitHub. Cài lần đầu cần mở lại SketchUp một lần."
+      "filename": "81ART_Tools_v1.3.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.1.rbz",
+      "sha256": "c562f1670b700a9a02e4506452c6bc9cb025452c66368cab9b8f8fbabf4641ee",
+      "size": 71663,
+      "notes": "Sửa lỗi kết nối GitHub hết thời gian chờ; thêm GitHub API và kết nối dự phòng bằng Windows. Có thể cập nhật từ file RBZ trong 81ART Tools."
     },
     {
       "id": "styles",
