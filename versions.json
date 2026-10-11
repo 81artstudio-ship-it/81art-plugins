@@ -121,13 +121,13 @@
     {
       "id": "dim",
       "name": "81ART DIM",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "loader": "art81_dim.rb",
-      "filename": "81ART_DIM_v1.0.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_DIM_v1.0.0.rbz",
-      "sha256": "537e4186b857380bb942ed67877febbad955fd67c6266e01146c4ec87c31e04a",
-      "size": 11664,
-      "notes": "DIM nhanh hai điểm/một cạnh trong Group/Component; DIM tự động khung bao rộng-sâu-cao theo trục riêng; nhập khoảng đặt mm, xem trước, Undo. DIM tự động là điểm đo tại thời điểm tạo."
+      "filename": "81ART_DIM_v1.0.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_DIM_v1.0.1.rbz",
+      "sha256": "61cc745789986f984146ba56c96309c610cf9f4ab706ab01d2bdba7be5756f83",
+      "size": 13214,
+      "notes": "Thêm cài đặt màu DIM, kiểu đầu nét (gạch chéo/chấm/mũi tên/không), hướng chữ; lưu cho lần sau và áp dụng cho DIM đang chọn trong một Undo. Dùng cho DIM mới ở cả hai chế độ. Độ dày/nét đứt riêng chưa hỗ trợ với DIM thật. Giữ ID/icon; dùng Tools 1.3.9."
     }
   ]
 }
