@@ -47,13 +47,13 @@
     {
       "id": "rotate_map",
       "name": "81ART Rotate Map",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "loader": "art81_rotate_map.rb",
-      "filename": "81ART_Rotate_Map_v1.2.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Rotate_Map_v1.2.0.rbz",
-      "sha256": "cb318e2604f6e347347c1eacd6deff620bccfdc056cc88ef01d1e6789a0c17e9",
-      "size": 14704,
-      "notes": "Thêm Tự chia 4 góc khung bằng một click và Vẽ đường chia góc thật bằng hai điểm. Giữ map trên các mặt sau khi chia; căn map riêng hai bên; một icon Xoay map."
+      "filename": "81ART_Rotate_Map_v1.2.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Rotate_Map_v1.2.1.rbz",
+      "sha256": "801a81d7f985dec753f986766fc999092cf6871d51099617b46726d2ae904102",
+      "size": 15364,
+      "notes": "Sửa Tự chia 4 góc: bỏ yêu cầu hai biên song song; hỗ trợ viền không đều, hình thang, lỗ xoay. Chọn cách ghép góc hợp lệ trước khi tối ưu khoảng cách; chặn đường xuyên lỗ/cắt nhau và góc lõm. Giữ map, Undo, cùng ID/icon; cập nhật tooltip ngay khi nạp lại."
     },
     {
       "id": "scene_exporter",
