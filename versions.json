@@ -6,12 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.2.2",
+      "version": "1.3.0",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.2.2.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.2.2.rbz",
-      "sha256": "9c8b9ad3b14d248e935c400e82a378c1b6c6f5cee238d7ee1de494af7661348e",
-      "size": 63975
+      "filename": "81ART_Tools_v1.3.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.0.rbz",
+      "sha256": "773b79b31a9a1355c8db5315742a398471c88f92f97356d24d042cafaf5fee18",
+      "size": 70017,
+      "notes": "Thêm kiểm tra phiên bản và tải cập nhật từ GitHub. Cài lần đầu cần mở lại SketchUp một lần."
     },
     {
       "id": "styles",
