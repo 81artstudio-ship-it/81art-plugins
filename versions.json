@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.3.2.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.2.rbz",
-      "sha256": "337b42f03b64f98f4058546e9eb674f9ad020b517cfe0cdaa0e04bdc74d41a59",
-      "size": 71709,
-      "notes": "Thêm hỗ trợ cài và cập nhật 81ART Cleanup; giữ các đường tải GitHub dự phòng."
+      "filename": "81ART_Tools_v1.3.3.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.3.rbz",
+      "sha256": "cb3451fd5e5bda8af9adefc56ac2f13fe1b590fdfa1b3ac15e78dd9dcb3cb05c",
+      "size": 71735,
+      "notes": "Thêm hỗ trợ cài/cập nhật 81ART Cladding; giữ hỗ trợ Cleanup và tải GitHub dự phòng."
     },
     {
       "id": "styles",
@@ -94,6 +94,17 @@
       "sha256": "f8ebceb6c84a1815792203a0f0e2c42a06380340bcc9988465224ad70b808ed0",
       "size": 7781,
       "notes": "Dọn component, vật liệu, tag và style không sử dụng; chọn từng loại và xem báo cáo."
+    },
+    {
+      "id": "cladding",
+      "name": "81ART Cladding",
+      "loader": "art81_cladding.rb",
+      "version": "1.0.0",
+      "filename": "81ART_Cladding_v1.0.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.0.0.rbz",
+      "sha256": "497f04d739e93961d8dae014726dcd3096d900d9deb6e58d3fbe89a2a1088a62",
+      "size": 11543,
+      "notes": "Chia tấm ốp theo mặt phẳng, cắt mép/lỗ, kích thước mm và vật liệu đang chọn."
     }
   ]
 }
