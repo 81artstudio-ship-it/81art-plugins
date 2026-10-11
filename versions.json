@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.3.6",
+      "version": "1.3.7",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.3.6.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.6.rbz",
-      "sha256": "4b26eecc57591da37b6ecce1375003f2f16a06ecfe882b6bb74c44342c3769ab",
-      "size": 73160,
-      "notes": "Thêm Hủy tải và đếm thời gian. Giới hạn tổng thời gian kết nối, hiển thị dung lượng tải; tắt tự kiểm tra thì mở cửa sổ không tự gọi mạng. Giữ sửa trùng icon và hướng cao/rộng tấm ốp của bản 1.3.5."
+      "filename": "81ART_Tools_v1.3.7.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.7.rbz",
+      "sha256": "9c79ca5f0ccf291ce32a33cfe19e49f30cb5476796dd5d5acb71555beb45d1a6",
+      "size": 73283,
+      "notes": "Hỗ trợ cài/cập nhật Di chuyển theo cạnh. Plugin mới chưa nhận diện không chặn kiểm tra bản Tools mới. Giữ nút Hủy và giới hạn chờ mạng của 1.3.6."
     },
     {
       "id": "styles",
@@ -47,12 +47,13 @@
     {
       "id": "rotate_map",
       "name": "81ART Rotate Map",
-      "version": "1.0.0",
+      "version": "1.2.0",
       "loader": "art81_rotate_map.rb",
-      "filename": "81ART_Rotate_Map_v1.0.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Rotate_Map_v1.0.0.rbz",
-      "sha256": "f96758d641e7d4b99bd1a5eb97624c04cd6b39443b5e73c0c60ef8ed993f3a1b",
-      "size": 9266
+      "filename": "81ART_Rotate_Map_v1.2.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Rotate_Map_v1.2.0.rbz",
+      "sha256": "cb318e2604f6e347347c1eacd6deff620bccfdc056cc88ef01d1e6789a0c17e9",
+      "size": 14704,
+      "notes": "Thêm Tự chia 4 góc khung bằng một click và Vẽ đường chia góc thật bằng hai điểm. Giữ map trên các mặt sau khi chia; căn map riêng hai bên; một icon Xoay map."
     },
     {
       "id": "scene_exporter",
@@ -105,6 +106,17 @@
       "sha256": "916559291776628fd0e84bdbecdca45705c084246e3aeb1ccb111059117e75df",
       "size": 13040,
       "notes": "Cao hướng lên, rộng hướng ngang; lưu thiết lập vào máy và click mặt để ốp nhanh; icon riêng."
+    },
+    {
+      "id": "edge_move",
+      "name": "81ART Kéo cạnh giãn tấm",
+      "version": "1.1.0",
+      "loader": "art81_edge_move.rb",
+      "filename": "81ART_Edge_Move_v1.1.0.rbz",
+      "notes": "Sửa ý tưởng: bắt cạnh để giãn tấm, giữ độ dày đầu tấm; Tab chỉ kéo cạnh; mũi tên chọn trục; nhập khoảng; xem trước và Ctrl+Z. Giữ cùng ID, không thêm icon.",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Edge_Move_v1.1.0.rbz",
+      "sha256": "6ea799993f25ca5781044c2646909d42c2ae74d8bd2cce3e261fafc39b465e24",
+      "size": 8491
     }
   ]
 }
