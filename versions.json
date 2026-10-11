@@ -89,12 +89,12 @@
       "id": "cleanup",
       "name": "81ART Cleanup",
       "loader": "art81_cleanup.rb",
-      "version": "1.1.0",
-      "filename": "81ART_Cleanup_v1.1.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cleanup_v1.1.0.rbz",
-      "sha256": "132840b9ac73e50143dfcf65e4d45a2f4dbeedd57ed574bc2d9568a0713820e1",
-      "size": 11414,
-      "notes": "Thêm xóa line chia đồng phẳng và line rời, giữ đường bao/lỗ mở/cạnh góc. Chọn tủ hoặc group → xem trước line đỏ → xác nhận xóa; Ctrl+Z. Giữ tính năng dọn tài nguyên và cùng icon."
+      "version": "1.2.0",
+      "filename": "81ART_Cleanup_v1.2.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cleanup_v1.2.0.rbz",
+      "sha256": "4f5b42cdfb456fb65f4f5d1ce25c86e30d9a7454a23c567b184bd6dcb758ce58",
+      "size": 16111,
+      "notes": "Thêm Quét khối hộp: nhận diện vỏ hộp kín, xem trước, bỏ mặt/vách chia bên trong rồi xóa nét chia trên vỏ; giữ kích thước và đường bao. Có kiểm tra vỏ/lỗ và hoàn tác. Thêm nhận diện nét một mặt dạng slit; chặn giao diện mới chạy mã cũ. Sửa vị trí file hướng dẫn để bộ cài được Tools chấp nhận."
     },
     {
       "id": "cladding",
