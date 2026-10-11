@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.3.4",
+      "version": "1.3.5",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.3.4.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.4.rbz",
-      "sha256": "06582b245dbc76a437d163d8750ab0091c26cec736fa4e1475c148c678dcc899",
-      "size": 72393,
-      "notes": "Mở danh sách đã lưu ngay, nhớ đường kết nối tốt giữa các lần mở SketchUp, giảm chờ kết nối lỗi. Nút Kiểm tra luôn kiểm tra trực tiếp."
+      "filename": "81ART_Tools_v1.3.5.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.5.rbz",
+      "sha256": "ed27cf3a4332848cde7a3bda742a43e3d5a911d7c7922211da9b4e63db6940d6",
+      "size": 72626,
+      "notes": "Gộp công cụ tự đăng ký và công cụ đã quét để tránh trùng icon; đóng giao diện Cladding cũ khi cập nhật."
     },
     {
       "id": "styles",
@@ -99,12 +99,12 @@
       "id": "cladding",
       "name": "81ART Cladding",
       "loader": "art81_cladding.rb",
-      "version": "1.0.0",
-      "filename": "81ART_Cladding_v1.0.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.0.0.rbz",
-      "sha256": "497f04d739e93961d8dae014726dcd3096d900d9deb6e58d3fbe89a2a1088a62",
-      "size": 11543,
-      "notes": "Chia tấm ốp theo mặt phẳng, cắt mép/lỗ, kích thước mm và vật liệu đang chọn."
+      "version": "1.0.1",
+      "filename": "81ART_Cladding_v1.0.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.0.1.rbz",
+      "sha256": "916559291776628fd0e84bdbecdca45705c084246e3aeb1ccb111059117e75df",
+      "size": 13040,
+      "notes": "Cao hướng lên, rộng hướng ngang; lưu thiết lập vào máy và click mặt để ốp nhanh; icon riêng."
     }
   ]
 }
