@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "publisher": "81ART STUDIO",
+  "repository": "https://github.com/81artstudio-ship-it/81art-plugins",
+  "plugins": [
+    {
+      "id": "tools",
+      "name": "81ART Tools",
+      "version": "1.2.2",
+      "loader": "art81_tools.rb",
+      "filename": "81ART_Tools_v1.2.2.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.2.2.rbz",
+      "sha256": "9c8b9ad3b14d248e935c400e82a378c1b6c6f5cee238d7ee1de494af7661348e",
+      "size": 63975
+    },
+    {
+      "id": "styles",
+      "name": "81ART Styles",
+      "version": "1.0.1",
+      "loader": "art81_styles.rb",
+      "filename": "81ART_Styles_v1.0.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Styles_v1.0.1.rbz",
+      "sha256": "38e7bd356d054fb9e9d35d65ee55681ca6c926295f768e8aab63df9dae015a86",
+      "size": 9996
+    },
+    {
+      "id": "youtube_mini",
+      "name": "81ART YouTube Mini",
+      "version": "1.1.1",
+      "loader": "art81_youtube_mini.rb",
+      "filename": "81ART_YouTube_Mini_v1.1.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_YouTube_Mini_v1.1.1.rbz",
+      "sha256": "fd3b4582ba5d4d2901fbed97eddd8c0bf2d81a642ea8f4157cf2c4d3ac16d9f0",
+      "size": 13780
+    },
+    {
+      "id": "clipboard_material",
+      "name": "81ART Clipboard Material",
+      "version": "1.2.0",
+      "loader": "art81_clipboard_material.rb",
+      "filename": "81ART_Clipboard_Material_v1.2.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.2.0.rbz",
+      "sha256": "cb3f43fd1c97209a9befca9d6e3e6bce7c84e20050d5d9ee47027b313029daeb",
+      "size": 14812
+    },
+    {
+      "id": "rotate_map",
+      "name": "81ART Rotate Map",
+      "version": "1.0.0",
+      "loader": "art81_rotate_map.rb",
+      "filename": "81ART_Rotate_Map_v1.0.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Rotate_Map_v1.0.0.rbz",
+      "sha256": "f96758d641e7d4b99bd1a5eb97624c04cd6b39443b5e73c0c60ef8ed993f3a1b",
+      "size": 9266
+    },
+    {
+      "id": "scene_exporter",
+      "name": "81ART Scene Exporter",
+      "version": "1.2.0",
+      "loader": "art81_scene_exporter.rb",
+      "filename": "81ART_Scene_Exporter_v1.2.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Scene_Exporter_v1.2.0.rbz",
+      "sha256": "758f13fc5edab72f0c13095267564f7c85e1f4df3f0aa2ba559b9d2e0ad7b2a8",
+      "size": 13076
+    },
+    {
+      "id": "asset_library",
+      "name": "81ART Asset Library",
+      "version": "1.0.0",
+      "loader": "art81_asset_library.rb",
+      "filename": "81ART_Asset_Library_v1.0.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Asset_Library_v1.0.0.rbz",
+      "sha256": "0a068f9566d353d4f20be1ef6272d59b0f2ff59dc944b4dd3c2342378cb983c7",
+      "size": 15331
+    },
+    {
+      "id": "clipboard_image",
+      "name": "81ART Clipboard Image",
+      "version": "1.0.1",
+      "loader": "art81_clipboard_image.rb",
+      "filename": "81ART_Clipboard_Image_v1.0.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Image_v1.0.1.rbz",
+      "sha256": "ba441d1e8541e67b24ae67e63c99dc89fc9aa8546466aaa26bc3429bb563f73f",
+      "size": 7211
+    }
+  ]
+}
