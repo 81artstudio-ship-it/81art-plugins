@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.3.8",
+      "version": "1.3.9",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.3.8.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.8.rbz",
-      "sha256": "c6dd5b4a4e26c3b3ab77603c693179a03998cd2e36f461d2c7cc2e500f3fad73",
-      "size": 76177,
-      "notes": "Thêm Gỡ bỏ plugin 81ART cài riêng trong Quản lý công cụ. Giữ bản sao mã và thiết lập; phục hồi khi di chuyển file bị lỗi; cần mở lại SketchUp sau khi gỡ."
+      "filename": "81ART_Tools_v1.3.9.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.9.rbz",
+      "sha256": "795b88c8bf1b9b8dfb32801784aff1db1815bd141e16ab73a461c6e63320a19f",
+      "size": 76224,
+      "notes": "Nhận 81ART DIM để cài/cập nhật từ RBZ, kiểm tra phiên bản trên mạng và quản lý trong cùng thanh công cụ."
     },
     {
       "id": "styles",
@@ -109,14 +109,25 @@
     },
     {
       "id": "edge_move",
-      "name": "81ART Kéo cạnh giãn tấm",
-      "version": "1.1.0",
+      "name": "81ART Co kéo theo vùng",
+      "version": "1.2.2",
       "loader": "art81_edge_move.rb",
-      "filename": "81ART_Edge_Move_v1.1.0.rbz",
-      "notes": "Sửa ý tưởng: bắt cạnh để giãn tấm, giữ độ dày đầu tấm; Tab chỉ kéo cạnh; mũi tên chọn trục; nhập khoảng; xem trước và Ctrl+Z. Giữ cùng ID, không thêm icon.",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Edge_Move_v1.1.0.rbz",
-      "sha256": "6ea799993f25ca5781044c2646909d42c2ae74d8bd2cce3e261fafc39b465e24",
-      "size": 8491
+      "filename": "81ART_Edge_Move_v1.2.2.rbz",
+      "notes": "Sửa Enter chốt nhầm khoảng xem trước; không ghi đè VCB khi nhập. Số không đơn vị tính mm, hỗ trợ thập phân dấu phẩy; số không dấu theo hướng kéo, + / - theo chiều trục. Nhập là khoảng dịch chuyển, không phải kích thước cuối. Giữ ID/icon.",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Edge_Move_v1.2.2.rbz",
+      "sha256": "1a1b3758d907109d6440febffdcee8484de1cf6923732194babe51cfefed5626",
+      "size": 12865
+    },
+    {
+      "id": "dim",
+      "name": "81ART DIM",
+      "version": "1.0.0",
+      "loader": "art81_dim.rb",
+      "filename": "81ART_DIM_v1.0.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_DIM_v1.0.0.rbz",
+      "sha256": "537e4186b857380bb942ed67877febbad955fd67c6266e01146c4ec87c31e04a",
+      "size": 11664,
+      "notes": "DIM nhanh hai điểm/một cạnh trong Group/Component; DIM tự động khung bao rộng-sâu-cao theo trục riêng; nhập khoảng đặt mm, xem trước, Undo. DIM tự động là điểm đo tại thời điểm tạo."
     }
   ]
 }
