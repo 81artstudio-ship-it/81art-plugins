@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.3.3",
+      "version": "1.3.4",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.3.3.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.3.rbz",
-      "sha256": "cb3451fd5e5bda8af9adefc56ac2f13fe1b590fdfa1b3ac15e78dd9dcb3cb05c",
-      "size": 71735,
-      "notes": "Thêm hỗ trợ cài/cập nhật 81ART Cladding; giữ hỗ trợ Cleanup và tải GitHub dự phòng."
+      "filename": "81ART_Tools_v1.3.4.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.4.rbz",
+      "sha256": "06582b245dbc76a437d163d8750ab0091c26cec736fa4e1475c148c678dcc899",
+      "size": 72393,
+      "notes": "Mở danh sách đã lưu ngay, nhớ đường kết nối tốt giữa các lần mở SketchUp, giảm chờ kết nối lỗi. Nút Kiểm tra luôn kiểm tra trực tiếp."
     },
     {
       "id": "styles",
