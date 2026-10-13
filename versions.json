@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.3.11",
+      "version": "1.3.12",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.3.11.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.11.rbz",
-      "sha256": "974f6d5afa31bf986ce030f9d83dfc1080025c1c7abc03d7a666df409c8ba712",
-      "size": 79697,
-      "notes": "Kiểm tra nền khi mở SketchUp và hiện thông báo đỏ/đen bản mới cho plugin đã cài; Mở cập nhật / Để sau, một lần mỗi phiên bản. Tôn trọng bật/tắt kiểm tra tự động, không tự tải/cài; sửa tiêu đề bản cập nhật."
+      "filename": "81ART_Tools_v1.3.12.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.12.rbz",
+      "sha256": "8ebed0c1bbfa504e79227317c80cb241d69843fce2d86fdb3a676958aa568e48",
+      "size": 79751,
+      "notes": "Thêm cài/cập nhật/gỡ 81ART Cabinet, giữ một icon trên Tools; bổ sung curved.rb vào bộ nạp Cladding mặc định."
     },
     {
       "id": "styles",
@@ -128,6 +128,17 @@
       "sha256": "61cc745789986f984146ba56c96309c610cf9f4ab706ab01d2bdba7be5756f83",
       "size": 13214,
       "notes": "Thêm cài đặt màu DIM, kiểu đầu nét (gạch chéo/chấm/mũi tên/không), hướng chữ; lưu cho lần sau và áp dụng cho DIM đang chọn trong một Undo. Dùng cho DIM mới ở cả hai chế độ. Độ dày/nét đứt riêng chưa hỗ trợ với DIM thật. Giữ ID/icon; dùng Tools 1.3.9."
+    },
+    {
+      "id": "cabinet",
+      "name": "81ART Kết cấu tủ",
+      "version": "1.0.0",
+      "loader": "art81_cabinet.rb",
+      "filename": "81ART_Cabinet_v1.0.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cabinet_v1.0.0.rbz",
+      "sha256": "e75a03532480cd747f11c57cd11649d72d39fd6bd3e391e4773b5f5cbe669e0d",
+      "size": 21274,
+      "notes": "Tạo kết cấu từ khối hộp: chọn dày ván, nóc/đáy, hậu, khoang/đợt/cánh/bệ/chân, vật liệu riêng; xem trước, lưu/đổi tên/xóa mẫu, mỗi tấm component riêng. Chưa có phụ kiện/lỗ khoan."
     }
   ]
 }
