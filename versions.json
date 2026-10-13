@@ -100,12 +100,12 @@
       "id": "cladding",
       "name": "81ART Cladding",
       "loader": "art81_cladding.rb",
-      "version": "1.2.0",
-      "filename": "81ART_Cladding_v1.2.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.2.0.rbz",
-      "sha256": "d0edbc802fda9a6817c86925afbba144ce938e8f81c7b7f6d650096d34ddb686",
-      "size": 21330,
-      "notes": "Tự nhận dạng mặt phẳng có lỗ và dải vách đứng; mở rộng chữ S/elip theo từng đoạn biên, kiểm tra chồng tấm, giữ vật liệu đang chọn."
+      "version": "1.2.1",
+      "filename": "81ART_Cladding_v1.2.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.2.1.rbz",
+      "sha256": "82030e1a5e73607f42c314bfa031f3b1b8b78531767a98edd437930ac8d12e00",
+      "size": 21504,
+      "notes": "Sửa xác định chiều ngang trên mặt trên/dưới bằng chuyển Length sang Float; kiểm tra góc 0/45/90 độ, giữ chế độ mặt phẳng có lỗ và vách cong."
     },
     {
       "id": "edge_move",
