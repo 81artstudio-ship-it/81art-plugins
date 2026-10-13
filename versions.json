@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.3.10",
+      "version": "1.3.11",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.3.10.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.10.rbz",
-      "sha256": "9d4c87a88dd33f7430fc854c65b7b236f35d776501e2d660fbc9c33ade458cb8",
-      "size": 77664,
-      "notes": "Thêm Reset về 4 nút gốc / Bỏ chọn tất cả; lưu ngay, ẩn thanh quá tải, dựng thanh gọn khi mở lại SketchUp. Bộ lọc mặc định chỉ 81ART; chọn hàng loạt chỉ 81ART; quét command nhanh hơn. Không gỡ plugin; giữ tự thêm plugin 81ART mới."
+      "filename": "81ART_Tools_v1.3.11.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.11.rbz",
+      "sha256": "974f6d5afa31bf986ce030f9d83dfc1080025c1c7abc03d7a666df409c8ba712",
+      "size": 79697,
+      "notes": "Kiểm tra nền khi mở SketchUp và hiện thông báo đỏ/đen bản mới cho plugin đã cài; Mở cập nhật / Để sau, một lần mỗi phiên bản. Tôn trọng bật/tắt kiểm tra tự động, không tự tải/cài; sửa tiêu đề bản cập nhật."
     },
     {
       "id": "styles",
@@ -100,12 +100,12 @@
       "id": "cladding",
       "name": "81ART Cladding",
       "loader": "art81_cladding.rb",
-      "version": "1.0.1",
-      "filename": "81ART_Cladding_v1.0.1.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.0.1.rbz",
-      "sha256": "916559291776628fd0e84bdbecdca45705c084246e3aeb1ccb111059117e75df",
-      "size": 13040,
-      "notes": "Cao hướng lên, rộng hướng ngang; lưu thiết lập vào máy và click mặt để ốp nhanh; icon riêng."
+      "version": "1.0.2",
+      "filename": "81ART_Cladding_v1.0.2.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.0.2.rbz",
+      "sha256": "437fd99f1271602f168f83f2cd80b6aee8da4e34d21ac2187446f61dbdb7e594",
+      "size": 14548,
+      "notes": "Sửa luồng tạo mặt quanh lỗ: lưới tam giác phẳng, tọa độ cục bộ, dựng tạm phóng lớn rồi đưa về đúng kích thước/thickness; kiểm tra diện tích/lỗ, hoàn tác và báo rõ bước lỗi. Sửa tọa độ ngữ cảnh đang mở; chặn UI mới chạy mã cũ, giữ ID/icon."
     },
     {
       "id": "edge_move",
