@@ -100,12 +100,12 @@
       "id": "cladding",
       "name": "81ART Cladding",
       "loader": "art81_cladding.rb",
-      "version": "1.1.0",
-      "filename": "81ART_Cladding_v1.1.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.1.0.rbz",
-      "sha256": "2f240b14160f8c8bae62e32e4cdec1d0e7f9bf258ab36de865813c4af2a77595",
-      "size": 19576,
-      "notes": "Thêm tấm phẳng tiếp tuyến quanh trụ/cung trụ tròn đứng; giảm đều rộng để khép cung, khe giữa mép tấm, hàng theo chiều cao. Vân ảnh dọc chiều cao tấm cho cả hai chế độ, tùy chọn đảo 90 độ. Không hỗ trợ elip/trụ nghiêng/mặt cong có lỗ. Giữ ID/icon và Undo."
+      "version": "1.1.2",
+      "filename": "81ART_Cladding_v1.1.2.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.1.2.rbz",
+      "sha256": "9ef0557e2b9a881e8e237bb3c43c3b33e5ca75bac0645ad7f01a232dbdf78c91",
+      "size": 20244,
+      "notes": "Tính hướng từ lưới mặt, bảo vệ vector suy biến; ghim vân theo đỉnh mặt thật, giữ tấm và cảnh báo nếu SketchUp từ chối xoay vân."
     },
     {
       "id": "edge_move",
