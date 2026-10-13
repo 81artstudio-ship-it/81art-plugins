@@ -100,12 +100,12 @@
       "id": "cladding",
       "name": "81ART Cladding",
       "loader": "art81_cladding.rb",
-      "version": "1.0.2",
-      "filename": "81ART_Cladding_v1.0.2.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.0.2.rbz",
-      "sha256": "437fd99f1271602f168f83f2cd80b6aee8da4e34d21ac2187446f61dbdb7e594",
-      "size": 14548,
-      "notes": "Sửa luồng tạo mặt quanh lỗ: lưới tam giác phẳng, tọa độ cục bộ, dựng tạm phóng lớn rồi đưa về đúng kích thước/thickness; kiểm tra diện tích/lỗ, hoàn tác và báo rõ bước lỗi. Sửa tọa độ ngữ cảnh đang mở; chặn UI mới chạy mã cũ, giữ ID/icon."
+      "version": "1.1.0",
+      "filename": "81ART_Cladding_v1.1.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Cladding_v1.1.0.rbz",
+      "sha256": "2f240b14160f8c8bae62e32e4cdec1d0e7f9bf258ab36de865813c4af2a77595",
+      "size": 19576,
+      "notes": "Thêm tấm phẳng tiếp tuyến quanh trụ/cung trụ tròn đứng; giảm đều rộng để khép cung, khe giữa mép tấm, hàng theo chiều cao. Vân ảnh dọc chiều cao tấm cho cả hai chế độ, tùy chọn đảo 90 độ. Không hỗ trợ elip/trụ nghiêng/mặt cong có lỗ. Giữ ID/icon và Undo."
     },
     {
       "id": "edge_move",
