@@ -37,12 +37,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.2.0",
+      "version": "1.3.1",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.2.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.2.0.rbz",
-      "sha256": "cb3f43fd1c97209a9befca9d6e3e6bce7c84e20050d5d9ee47027b313029daeb",
-      "size": 14812
+      "filename": "81ART_Clipboard_Material_v1.3.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.3.1.rbz",
+      "sha256": "16f53d7b50f8b5b8e7483fc0f815ab0f39a31be08a35a06315ea36185ac8927d",
+      "size": 20242,
+      "notes": "Click trực tiếp group/component để đổ toàn bộ bên trong, tự căn vân, chỉ bản đang click; chuột phải chuyển đổ từng mặt; một Undo và cọ tiếp tục sau mỗi click."
     },
     {
       "id": "rotate_map",
