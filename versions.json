@@ -122,13 +122,13 @@
     {
       "id": "dim",
       "name": "81ART DIM",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "loader": "art81_dim.rb",
-      "filename": "81ART_DIM_v1.1.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_DIM_v1.1.0.rbz",
-      "sha256": "8db89dbf91a2523a9e0cf696e5173f938de77fce2af41c9376ec72d75022d21b",
-      "size": 17356,
-      "notes": "Chỉnh chi tiết DIM đang chọn: vị trí chữ, màu/đầu nét, nội dung tùy chỉnh/khôi phục, khoảng cách/đảo phía, giữ tham chiếu điểm đo; nút mở Model Info để chỉnh phông/cỡ chữ và đơn vị."
+      "filename": "81ART_DIM_v1.2.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_DIM_v1.2.0.rbz",
+      "sha256": "9a39320634c59ed9b12fc68d1e1d305ac66895574898de706a937b855fb6faf8",
+      "size": 20885,
+      "notes": "Bấm chuột trái vào icon mở bảng chọn nhanh: Hai điểm, Một cạnh, DIM tự động vùng chọn, Chỉnh DIM và Cài đặt. Giữ một icon/ID, giữ cài đặt và toàn bộ chỉnh chi tiết DIM cũ."
     },
     {
       "id": "cabinet",
