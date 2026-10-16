@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.3.13",
+      "version": "1.4.0",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.3.13.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.3.13.rbz",
-      "sha256": "f66cd6566bd58f0b1af8ed33ca5af84b69a2e2c1b354bd9bac63ea1d63d873e4",
-      "size": 79884,
-      "notes": "Hỗ trợ 81ART QuickDraw: một icon, cài/cập nhật từ RBZ lần đầu, nhận trong cập nhật trực tuyến và đóng cửa sổ khi gỡ. Giữ các plugin và thiết lập hiện có."
+      "filename": "81ART_Tools_v1.4.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.4.0.rbz",
+      "sha256": "84852a4f3fb900baf5a081e07041a8f17d0c8d853743123911a81218242c092c",
+      "size": 87389,
+      "notes": "Thêm quản lý phím riêng từng plugin: chuẩn bị lệnh ổn định, đọc phím đã gán, kiểm tra tổ hợp và mở Shortcuts để người dùng gán/đổi/xóa. Không tự thêm icon; giữ hỗ trợ QuickDraw."
     },
     {
       "id": "styles",
@@ -144,13 +144,13 @@
     {
       "id": "quick_draw",
       "name": "81ART QuickDraw",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "loader": "art81_quick_draw.rb",
-      "filename": "81ART_QuickDraw_v1.0.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_QuickDraw_v1.0.0.rbz",
-      "sha256": "883737cecb091f4f814b708bdb0a7b5319a8fc44d1721155340df5d3a9ed37fc",
-      "size": 20680,
-      "notes": "Bộ mới: chữ nhật, chữ nhật xoay, hộp nhanh, cạnh song song, viền offset và tấm hai phía. Một icon, nhập mm, xem trước và Undo; tạo group riêng, giữ nguồn. Cần Tools v1.3.13 để hiện trong cập nhật trực tuyến."
+      "filename": "81ART_QuickDraw_v1.1.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_QuickDraw_v1.1.0.rbz",
+      "sha256": "bf60d66a5fc4b400b45fafb7d87ff9c1b1868dc128afdc300c7efbe0887e9128",
+      "size": 20502,
+      "notes": "Bấm icon bật công cụ gần nhất; chuột phải chọn sáu chức năng. Nhập số chỉ cập nhật xem trước, click để chốt; giữ kích thước đã nhập khi rê chuột. Giữ ID/icon và hỗ trợ Tools."
     }
   ]
 }
