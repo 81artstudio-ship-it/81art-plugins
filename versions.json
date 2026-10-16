@@ -37,13 +37,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.5.1",
+      "version": "1.6.0",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.5.1.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.5.1.rbz",
-      "sha256": "20adae241354bb26bd992e41db15e261829ffd9ffb0e2d1b56981098d402494f",
-      "size": 41640,
-      "notes": "Thêm tick chọn nhiều vật liệu, xóa khỏi thống kê/CSV và khôi phục; giữ vật liệu trên mô hình. Mặc định ẩn m²; có tùy chọn hiện lại diện tích trong bảng và CSV. Giữ thông tin mã/NCC, nhớ map và công cụ cọ."
+      "filename": "81ART_Clipboard_Material_v1.6.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.6.0.rbz",
+      "sha256": "3865ae4e0718436e853064dd5ebefb64d91c61d216476ea1c533b7f1b84fa417",
+      "size": 43360,
+      "notes": "Thêm Phủ map kín tấm: giữ tỉ lệ, canh giữa/cắt dư để hạn chế vệt do lặp ảnh; chọn nhanh từ cọ hoặc bảng căn vân. Sửa hướng UV giữa các mặt cùng phẳng/chung khung. Giữ thống kê, mã/NCC, loại dòng và ẩn m²."
     },
     {
       "id": "rotate_map",
