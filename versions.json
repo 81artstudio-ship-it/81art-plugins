@@ -144,13 +144,13 @@
     {
       "id": "quick_draw",
       "name": "81ART QuickDraw",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "loader": "art81_quick_draw.rb",
-      "filename": "81ART_QuickDraw_v1.2.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_QuickDraw_v1.2.0.rbz",
-      "sha256": "c988b34c6483f7e9762b9dfe7da83b51258e93b703f2608dea638d211cc7f2bc",
-      "size": 23874,
-      "notes": "Sửa chiều vòng lỗ Offset; cạnh song song theo hướng bắt điểm 3D, đổi mặt khi rê. Thêm tổng/N chia đều cạnh song song và Divide cạnh gốc theo số đoạn hoặc khoảng cách, xem trước rồi click chốt, một Undo."
+      "filename": "81ART_QuickDraw_v1.2.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_QuickDraw_v1.2.1.rbz",
+      "sha256": "44fd629a8f7ca57541f10006db57a3f932d1d5c049870e4d67fa36edd08782cc",
+      "size": 24915,
+      "notes": "Offset mặc định vẽ trực tiếp trên mặt nguồn trong ngữ cảnh đang mở; không tạo group viền riêng. Chuột phải chọn Offset trực tiếp hoặc tạo group riêng, lưu kiểu đầu ra; giữ chia song song /N và Divide."
     }
   ]
 }
