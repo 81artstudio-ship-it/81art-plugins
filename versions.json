@@ -48,13 +48,13 @@
     {
       "id": "rotate_map",
       "name": "81ART Rotate Map",
-      "version": "1.2.3",
+      "version": "1.3.1",
       "loader": "art81_rotate_map.rb",
-      "filename": "81ART_Rotate_Map_v1.2.3.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Rotate_Map_v1.2.3.rbz",
-      "sha256": "69846f429227bf4e3578142b70516a74ec654956b2112430f0dc277f6955bf65",
-      "size": 16453,
-      "notes": "Sửa lỗi Vector3d khi chia ngang; hỗ trợ khung chữ U hở đáy hai góc lõm thành 3 mặt và khung kín thành 4 mặt. Giữ UV hai phía và Undo."
+      "filename": "81ART_Rotate_Map_v1.3.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Rotate_Map_v1.3.1.rbz",
+      "sha256": "a17c95df7ef9856ff113033541f757e6ccf4b97b55e62ac47b73d9415316a1dd",
+      "size": 17596,
+      "notes": "Thêm Chia tự động theo mặt (mọi hướng): xét các hướng cạnh trên mặt đứng/nằm/nghiêng/xoay. Ngang/dọc bám cạnh mặt; giữ hai điểm hướng tùy ý, xem trước nét đỏ, UV và Undo."
     },
     {
       "id": "scene_exporter",
