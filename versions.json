@@ -122,13 +122,13 @@
     {
       "id": "dim",
       "name": "81ART DIM",
-      "version": "1.2.0",
+      "version": "1.2.3",
       "loader": "art81_dim.rb",
-      "filename": "81ART_DIM_v1.2.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_DIM_v1.2.0.rbz",
-      "sha256": "9a39320634c59ed9b12fc68d1e1d305ac66895574898de706a937b855fb6faf8",
-      "size": 20885,
-      "notes": "Bấm chuột trái vào icon mở bảng chọn nhanh: Hai điểm, Một cạnh, DIM tự động vùng chọn, Chỉnh DIM và Cài đặt. Giữ một icon/ID, giữ cài đặt và toàn bộ chỉnh chi tiết DIM cũ."
+      "filename": "81ART_DIM_v1.2.3.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_DIM_v1.2.3.rbz",
+      "sha256": "ce8e6e82e3096f849a3159384be60325d6e17d47eedd37a9522e91a4190474e0",
+      "size": 21846,
+      "notes": "Công cụ DIM riêng như cọ vật liệu: bấm icon, click chọn đối tượng, chuột phải hiện trực tiếp chức năng nhanh. Ctrl/Shift chọn nhiều; DIM tự động liên tiếp; chuyển chức năng bằng chuột phải khi đang vẽ."
     },
     {
       "id": "cabinet",
@@ -144,13 +144,13 @@
     {
       "id": "quick_draw",
       "name": "81ART QuickDraw",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "loader": "art81_quick_draw.rb",
-      "filename": "81ART_QuickDraw_v1.1.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_QuickDraw_v1.1.0.rbz",
-      "sha256": "bf60d66a5fc4b400b45fafb7d87ff9c1b1868dc128afdc300c7efbe0887e9128",
-      "size": 20502,
-      "notes": "Bấm icon bật công cụ gần nhất; chuột phải chọn sáu chức năng. Nhập số chỉ cập nhật xem trước, click để chốt; giữ kích thước đã nhập khi rê chuột. Giữ ID/icon và hỗ trợ Tools."
+      "filename": "81ART_QuickDraw_v1.2.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_QuickDraw_v1.2.0.rbz",
+      "sha256": "c988b34c6483f7e9762b9dfe7da83b51258e93b703f2608dea638d211cc7f2bc",
+      "size": 23874,
+      "notes": "Sửa chiều vòng lỗ Offset; cạnh song song theo hướng bắt điểm 3D, đổi mặt khi rê. Thêm tổng/N chia đều cạnh song song và Divide cạnh gốc theo số đoạn hoặc khoảng cách, xem trước rồi click chốt, một Undo."
     }
   ]
 }
