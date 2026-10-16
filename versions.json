@@ -37,13 +37,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.4.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.4.0.rbz",
-      "sha256": "e59ca48ea0c32936b3301df75d96233cc9716f07da77545b8f91c4a989f740fd",
-      "size": 30585,
-      "notes": "Thêm tính diện tích m² theo vật liệu đang chọn hoặc bảng tất cả vật liệu; vùng chọn/toàn model, mặt trước/hai phía, tùy chọn đối tượng ẩn. Tính vật liệu kế thừa, scale và từng bản sao group/component; chỉ đọc model. Giữ Alt hút vật liệu và các icon cũ."
+      "filename": "81ART_Clipboard_Material_v1.5.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.5.0.rbz",
+      "sha256": "93d70ac741aceb525bb44d985da2b463147aeffb356c8c365d5743e9392bade5",
+      "size": 39569,
+      "notes": "Thống kê vật liệu kèm diện tích, tên/mã/NCC/link/ghi chú; lọc thiếu thông tin, CSV Excel UTF-8. Lưu thông tin trong model, nhớ theo đúng ảnh texture trên máy và ghi ngay khi dán map. Giữ công cụ cọ, hút Alt và căn vân."
     },
     {
       "id": "rotate_map",
