@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.6.1",
+      "version": "1.6.2",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.6.1.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.6.1.rbz",
-      "sha256": "81584b098a686b719d663f63c0e60297d92711a3bbc8807fcdff35039919d155",
-      "size": 94847,
-      "notes": "Sửa lỗi nút plugin con bị xám sau khi mở lại SketchUp: chờ tích hợp xong mới đăng ký nút, giữ nguyên điều kiện bật/tắt và tránh thêm trùng. Giữ cơ chế khóa tác vụ và kiểm tra chuẩn. Chỉ cần cập nhật lõi Tools 1.6.1, sau đó đóng toàn bộ SketchUp và mở lại."
+      "filename": "81ART_Tools_v1.6.2.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.6.2.rbz",
+      "sha256": "a043c507310217a046c024c629a05ef6052d3d89e89b7bca486b9d98e02143bf",
+      "size": 94910,
+      "notes": "Sửa Xuất view/Scene tự chặn bởi cờ chuẩn bị xuất: phân biệt đúng tác vụ của chính plugin, giữ khóa tác vụ khác/bảo trì/khởi động lại. Đồng bộ nhãn cửa sổ xuất với Tools 1.6.2. Bao gồm bản sửa nút xám 1.6.1. Chỉ cập nhật lõi Tools, lưu model và mở lại SketchUp."
     },
     {
       "id": "styles",
