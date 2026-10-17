@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.6.0",
+      "version": "1.6.1",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.6.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.6.0.rbz",
-      "sha256": "e21d49d0310998efbc3fef7cc4275027eafa9864b704502391b2ee6edbac46a6",
-      "size": 94572,
-      "notes": "Bộ chuẩn 1.6.0: kiểm tra hợp đồng bắt buộc; điều phối và khóa tác vụ cho toàn bộ bộ công cụ; quản lý file đã cài, dọn file cũ chưa sửa và giữ bản sao; cách ly ba runtime độc lập cũ. Hỗ trợ plugin tương lai theo chuẩn. Cài lõi và mở lại trước khi cài plugin con."
+      "filename": "81ART_Tools_v1.6.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.6.1.rbz",
+      "sha256": "81584b098a686b719d663f63c0e60297d92711a3bbc8807fcdff35039919d155",
+      "size": 94847,
+      "notes": "Sửa lỗi nút plugin con bị xám sau khi mở lại SketchUp: chờ tích hợp xong mới đăng ký nút, giữ nguyên điều kiện bật/tắt và tránh thêm trùng. Giữ cơ chế khóa tác vụ và kiểm tra chuẩn. Chỉ cần cập nhật lõi Tools 1.6.1, sau đó đóng toàn bộ SketchUp và mở lại."
     },
     {
       "id": "styles",
