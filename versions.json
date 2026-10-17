@@ -37,13 +37,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.6.1",
+      "version": "1.6.2",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.6.1.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.6.1.rbz",
-      "sha256": "6d92c49b90dc4d67f1ac75615e8e8d9b2dcdb4c44a63b44356b1dd12f550a399",
-      "size": 43761,
-      "notes": "Thêm chế độ căn vân theo cạnh dài từng mặt cho khối tủ phương án nhanh trong một group; phủ kín tính theo từng mặt. Giữ các chức năng cọ, hút vật liệu, thống kê và tính diện tích."
+      "filename": "81ART_Clipboard_Material_v1.6.2.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.6.2.rbz",
+      "sha256": "02d4ef760eefca10d343ef3cc8ba457ec16be04ec524c28a8e68dbba9ead7158",
+      "size": 44200,
+      "notes": "Đổi điểm ghim map sang hai trục texture độc lập, giảm UV lớn bằng dịch nguyên ô; kiểm tra suy biến để xử lý lỗi Could not compute valid matrix from points. Giữ hướng vân, phủ kín, thống kê và Undo."
     },
     {
       "id": "rotate_map",
