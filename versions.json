@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.4.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.4.0.rbz",
-      "sha256": "84852a4f3fb900baf5a081e07041a8f17d0c8d853743123911a81218242c092c",
-      "size": 87389,
-      "notes": "Thêm quản lý phím riêng từng plugin: chuẩn bị lệnh ổn định, đọc phím đã gán, kiểm tra tổ hợp và mở Shortcuts để người dùng gán/đổi/xóa. Không tự thêm icon; giữ hỗ trợ QuickDraw."
+      "filename": "81ART_Tools_v1.5.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.5.0.rbz",
+      "sha256": "a2c36b3267f7e1b50c310c547819f1dfb10fa7f47d53fdca9c3e956c9c206d8c",
+      "size": 96318,
+      "notes": "Lõi điều phối và dịch vụ map chung; chỉ nhận lệnh 81ART. Kiểm tra ZIP/CRC/cú pháp/phụ thuộc, sao lưu và khôi phục khi cài lỗi. Cài Tools trước, mở lại SketchUp rồi cài plugin con."
     },
     {
       "id": "styles",
@@ -37,24 +37,26 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.6.2",
+      "version": "1.7.0",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.6.2.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.6.2.rbz",
-      "sha256": "02d4ef760eefca10d343ef3cc8ba457ec16be04ec524c28a8e68dbba9ead7158",
-      "size": 44200,
-      "notes": "Đổi điểm ghim map sang hai trục texture độc lập, giảm UV lớn bằng dịch nguyên ô; kiểm tra suy biến để xử lý lỗi Could not compute valid matrix from points. Giữ hướng vân, phủ kín, thống kê và Undo."
+      "filename": "81ART_Clipboard_Material_v1.7.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.7.0.rbz",
+      "sha256": "5515e0e6ab22d579be630427988d5aff29c55240c9f0ccd26e0823e0277ae5ba",
+      "size": 44796,
+      "notes": "Tích hợp lõi Tools 1.5.0: dùng chung xử lý map, chặn tác vụ khi bảo trì và chuyển qua lại Clipboard Material / Rotate Map qua chuột phải. Cài Tools trước, mở lại SketchUp; sau khi cài plugin con mở lại một lần.",
+      "min_core": "1.5.0"
     },
     {
       "id": "rotate_map",
       "name": "81ART Rotate Map",
-      "version": "1.3.1",
+      "version": "1.4.0",
       "loader": "art81_rotate_map.rb",
-      "filename": "81ART_Rotate_Map_v1.3.1.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Rotate_Map_v1.3.1.rbz",
-      "sha256": "a17c95df7ef9856ff113033541f757e6ccf4b97b55e62ac47b73d9415316a1dd",
-      "size": 17596,
-      "notes": "Thêm Chia tự động theo mặt (mọi hướng): xét các hướng cạnh trên mặt đứng/nằm/nghiêng/xoay. Ngang/dọc bám cạnh mặt; giữ hai điểm hướng tùy ý, xem trước nét đỏ, UV và Undo."
+      "filename": "81ART_Rotate_Map_v1.4.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Rotate_Map_v1.4.0.rbz",
+      "sha256": "55a63d53651d8752fc3642c873a726c8e69ea3ccda7e3682235829800a1bff90",
+      "size": 18205,
+      "notes": "Tích hợp lõi Tools 1.5.0: dùng chung xử lý map, chặn tác vụ khi bảo trì và chuyển qua lại Clipboard Material / Rotate Map qua chuột phải. Cài Tools trước, mở lại SketchUp; sau khi cài plugin con mở lại một lần.",
+      "min_core": "1.5.0"
     },
     {
       "id": "scene_exporter",
