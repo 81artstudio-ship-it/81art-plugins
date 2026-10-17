@@ -41,13 +41,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.7.1",
+      "version": "1.7.2",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.7.1.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.7.1.rbz",
-      "sha256": "6b51987b30e40c3d5cbc14b3ec338f3f75a5fc035bf71b23654eebad7f9ef08f",
-      "size": 45393,
-      "notes": "Bản đồng bộ chuẩn lõi 1.6.0: điểm vào và thao tác sửa model có kiểm tra tác vụ/bảo trì/khởi động lại; khai báo gói và danh sách mã bắt buộc. Giữ thuật toán/chức năng hiện có. Cài Tools 1.6.0 trước. Giữ liên kết cọ vật liệu / Xoay Map.",
+      "filename": "81ART_Clipboard_Material_v1.7.2.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.7.2.rbz",
+      "sha256": "b8229451b6586a12cdc6727ef33516c382014128c593e0e1d09b92022a9f5c11",
+      "size": 45944,
+      "notes": "Gia cố cọ khi click nhanh: giữ nguyên Tool trong callback đổ group, chặn callback lồng, bỏ click lặp cùng đối tượng/vật liệu/cài đặt trong 350 ms, xóa hover trước khi tách component. Kiểm tra giới hạn hình học trước thao tác. Giữ Ctrl+Z và chỉ tách bản đang click. Chưa xác nhận nguyên nhân crash gốc nếu không có BugSplat/log. Nên dùng cùng Tools 1.6.2.",
       "min_core": "1.6.0"
     },
     {
