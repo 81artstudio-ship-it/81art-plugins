@@ -41,13 +41,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.7.2",
+      "version": "1.7.3",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.7.2.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.7.2.rbz",
-      "sha256": "b8229451b6586a12cdc6727ef33516c382014128c593e0e1d09b92022a9f5c11",
-      "size": 45944,
-      "notes": "Gia cố cọ khi click nhanh: giữ nguyên Tool trong callback đổ group, chặn callback lồng, bỏ click lặp cùng đối tượng/vật liệu/cài đặt trong 350 ms, xóa hover trước khi tách component. Kiểm tra giới hạn hình học trước thao tác. Giữ Ctrl+Z và chỉ tách bản đang click. Chưa xác nhận nguyên nhân crash gốc nếu không có BugSplat/log. Nên dùng cùng Tools 1.6.2.",
+      "filename": "81ART_Clipboard_Material_v1.7.3.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.7.3.rbz",
+      "sha256": "3fedcddf3c47485a3670435572a34b2515e9dd0c6c258456d04e82695563ab9f",
+      "size": 46575,
+      "notes": "Mặc định giữ liên kết Component; các bản sao cùng Component cùng đổi vật liệu. Thêm lựa chọn rõ ràng Giữ liên kết / Chỉ đổ bản đang click (Make Unique) trong bảng cài đặt và menu chuột phải. Group giữ độc lập, Component giữ loại đối tượng. Bỏ tách riêng bắt buộc khi đổ cả khối; tránh căn lại cùng definition nhiều lần trong một lượt. Giữ chống click lặp từ 1.7.2. Nên dùng Tools 1.6.2.",
       "min_core": "1.6.0"
     },
     {
