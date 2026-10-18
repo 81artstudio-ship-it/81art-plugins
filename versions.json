@@ -173,14 +173,14 @@
     {
       "id": "tile",
       "name": "81ART Gạch sàn / tường",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "loader": "art81_tile.rb",
-      "filename": "81ART_Tile_v1.0.1.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tile_v1.0.1.rbz",
-      "sha256": "c4849d18789c622250e16f18a3f25f51639b50c5ae71189a93263dbd33618810",
-      "size": 22799,
+      "filename": "81ART_Tile_v1.1.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tile_v1.1.0.rbz",
+      "sha256": "2d1d538c31c41b8756626440f5fb18472acf99491168824f9baa8571b6e24dcb",
+      "size": 24155,
       "min_core": "1.6.2",
-      "notes": "Sửa lỗi “Phép biến đổi hoặc mặt suy biến” khi chọn sàn nằm ngang: xử lý độ dài vector bằng Float thay cho so sánh Length có dung sai. Giữ 9 kiểu lát, 19 kích thước và tự nhập. Cần Tools 1.6.2; lưu model và mở lại SketchUp sau cập nhật."
+      "notes": "Thêm Chọn mốc lát: click một điểm trên mặt/cạnh/đỉnh để lấy mốc viên đầu tiên, tự xem trước; X/Y dịch từ mốc. Có Mốc tự động, Esc hủy; đổi mặt/component không dùng nhầm mốc. Giữ 9 kiểu lát, 19 kích thước và tự nhập, cùng sửa lỗi sàn ngang 1.0.1. Cần Tools 1.6.2; mở lại SketchUp sau cập nhật."
     }
   ]
 }
