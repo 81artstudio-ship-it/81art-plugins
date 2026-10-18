@@ -41,13 +41,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.7.3",
+      "version": "1.8.0",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.7.3.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.7.3.rbz",
-      "sha256": "3fedcddf3c47485a3670435572a34b2515e9dd0c6c258456d04e82695563ab9f",
-      "size": 46575,
-      "notes": "Mặc định giữ liên kết Component; các bản sao cùng Component cùng đổi vật liệu. Thêm lựa chọn rõ ràng Giữ liên kết / Chỉ đổ bản đang click (Make Unique) trong bảng cài đặt và menu chuột phải. Group giữ độc lập, Component giữ loại đối tượng. Bỏ tách riêng bắt buộc khi đổ cả khối; tránh căn lại cùng definition nhiều lần trong một lượt. Giữ chống click lặp từ 1.7.2. Nên dùng Tools 1.6.2.",
+      "filename": "81ART_Clipboard_Material_v1.8.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.8.0.rbz",
+      "sha256": "37d0a36b1c884b9f670c0ba9e017d3816736a888599b8faaa0e596fd5c2969ae",
+      "size": 50537,
+      "notes": "Thêm ngẫu nhiên vị trí vân theo từng mặt, tùy chọn đảo 180 độ và nút đổi mẫu/đổ lại vùng chọn. Giữ hướng vân và liên kết Component; bản sao cùng Component dùng chung mẫu. Giữ kích thước thật chỉ dịch UV; phủ kín phóng map thêm 15% để dịch trong một ô ảnh. Vật liệu màu không ảnh giữ nguyên. Giữ sửa lỗi click lặp và lựa chọn Make Unique từ 1.7.3. Nên dùng Tools 1.6.2.",
       "min_core": "1.6.0"
     },
     {
