@@ -41,13 +41,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.8.0",
+      "version": "1.9.0",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.8.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.8.0.rbz",
-      "sha256": "37d0a36b1c884b9f670c0ba9e017d3816736a888599b8faaa0e596fd5c2969ae",
-      "size": 50537,
-      "notes": "Thêm ngẫu nhiên vị trí vân theo từng mặt, tùy chọn đảo 180 độ và nút đổi mẫu/đổ lại vùng chọn. Giữ hướng vân và liên kết Component; bản sao cùng Component dùng chung mẫu. Giữ kích thước thật chỉ dịch UV; phủ kín phóng map thêm 15% để dịch trong một ô ảnh. Vật liệu màu không ảnh giữ nguyên. Giữ sửa lỗi click lặp và lựa chọn Make Unique từ 1.7.3. Nên dùng Tools 1.6.2.",
+      "filename": "81ART_Clipboard_Material_v1.9.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.9.0.rbz",
+      "sha256": "68d6a7452928c85e7d330b4b36557ede5afc07622129037cdacbf1aac55b7ce4",
+      "size": 53469,
+      "notes": "Tối ưu giao diện: menu chuột phải cọ còn 3 mục; bảng Cài đặt chia 4 nhóm màu Cọ đổ, Hướng vân, Ngẫu nhiên, Tiện ích. Thống kê/mã/NCC, diện tích và chuyển Xoay Map nằm trong Tiện ích. Lưu cài đặt không sửa model; giữ Alt hút và không thêm icon. Lưu model và mở lại SketchUp sau cập nhật.",
       "min_core": "1.6.0"
     },
     {
