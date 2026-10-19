@@ -41,13 +41,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.10.0",
+      "version": "1.10.1",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.10.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.10.0.rbz",
-      "sha256": "d6acc0ced9c6574e85e091af50deb20eda07a189ba7de38a64cd12102abd8e1b",
-      "size": 60755,
-      "notes": "Thêm Đổ khối con từ ngoài: click Group/Component con bên trong Component tổng, khung đỏ theo đúng cấp; Tab chuyển cấp cha. Giữ liên kết hoặc Make Unique toàn đường dẫn khi cần chỉ đổi bản đang click; giữ loại đối tượng, tọa độ các cấp và một Undo. Cần có khối con; mặt rời dùng Đổ từng mặt. Giữ menu nhanh và bảo vệ tải hiện có. Mở lại SketchUp sau cài.",
+      "filename": "81ART_Clipboard_Material_v1.10.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.10.1.rbz",
+      "sha256": "0eb8e68a419b2bf7581ad2bfba1600d65c7e0108dae861863dfcb68e95ab4333",
+      "size": 62525,
+      "notes": "Sửa chọn cấp khối con: giữ cấp khi rê giữa các nhánh trong cùng Component tổng; chặn xử lý Tab mặc định cả khi nhấn/nhả. Thêm chuột phải → Chọn cấp khối con → Cấp 1/2/3… có dấu tích để chọn trực tiếp nếu phím không nhận. Giữ đổ khối con/Make Unique và các bảo vệ hiện có. Lưu model và mở lại SketchUp sau cài.",
       "min_core": "1.6.0"
     },
     {
