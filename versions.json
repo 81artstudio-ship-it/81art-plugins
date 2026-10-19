@@ -41,13 +41,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.9.0",
+      "version": "1.10.0",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.9.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.9.0.rbz",
-      "sha256": "68d6a7452928c85e7d330b4b36557ede5afc07622129037cdacbf1aac55b7ce4",
-      "size": 53469,
-      "notes": "Tối ưu giao diện: menu chuột phải cọ còn 3 mục; bảng Cài đặt chia 4 nhóm màu Cọ đổ, Hướng vân, Ngẫu nhiên, Tiện ích. Thống kê/mã/NCC, diện tích và chuyển Xoay Map nằm trong Tiện ích. Lưu cài đặt không sửa model; giữ Alt hút và không thêm icon. Lưu model và mở lại SketchUp sau cập nhật.",
+      "filename": "81ART_Clipboard_Material_v1.10.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.10.0.rbz",
+      "sha256": "d6acc0ced9c6574e85e091af50deb20eda07a189ba7de38a64cd12102abd8e1b",
+      "size": 60755,
+      "notes": "Thêm Đổ khối con từ ngoài: click Group/Component con bên trong Component tổng, khung đỏ theo đúng cấp; Tab chuyển cấp cha. Giữ liên kết hoặc Make Unique toàn đường dẫn khi cần chỉ đổi bản đang click; giữ loại đối tượng, tọa độ các cấp và một Undo. Cần có khối con; mặt rời dùng Đổ từng mặt. Giữ menu nhanh và bảo vệ tải hiện có. Mở lại SketchUp sau cài.",
       "min_core": "1.6.0"
     },
     {
