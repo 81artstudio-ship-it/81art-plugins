@@ -161,13 +161,13 @@
     {
       "id": "quick_draw",
       "name": "81ART QuickDraw",
-      "version": "1.2.2",
+      "version": "1.3.0",
       "loader": "art81_quick_draw.rb",
-      "filename": "81ART_QuickDraw_v1.2.2.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_QuickDraw_v1.2.2.rbz",
-      "sha256": "56f15334d3ee671f1559263db2e97a155660a957d52f57035fbefe02e6f77041",
-      "size": 25748,
-      "notes": "Bản đồng bộ chuẩn lõi 1.6.0: điểm vào và thao tác sửa model có kiểm tra tác vụ/bảo trì/khởi động lại; khai báo gói và danh sách mã bắt buộc. Giữ thuật toán/chức năng hiện có. Cài Tools 1.6.0 trước.",
+      "filename": "81ART_QuickDraw_v1.3.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_QuickDraw_v1.3.0.rbz",
+      "sha256": "62ccab6376fe5375df2dc8f5cc8d8187bcd35d24b077c903251b5b3200546489",
+      "size": 34323,
+      "notes": "Thêm Tạo độ dày tấm phẳng/cong: chọn mảng nối, nhập mm, Tab đổi phía, xem trước rồi click chốt. Tạo Group mới, giữ nguyên nguồn và Component dùng chung; kiểm tra tự cắt/đảo mặt, một Undo. Menu chuột phải chia nhóm Vẽ/Cạnh/Tấm, có hướng và kích thước nhanh; Cài đặt gom 4 nhóm màu. Một số cong kép/góc nhọn không offset được sẽ bị từ chối. Lưu model và mở lại SketchUp sau cài. Chưa thử native trên Windows.",
       "min_core": "1.6.0"
     },
     {
