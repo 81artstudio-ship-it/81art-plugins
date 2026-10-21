@@ -41,13 +41,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.10.1",
+      "version": "1.11.0",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.10.1.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.10.1.rbz",
-      "sha256": "0eb8e68a419b2bf7581ad2bfba1600d65c7e0108dae861863dfcb68e95ab4333",
-      "size": 62525,
-      "notes": "Sửa chọn cấp khối con: giữ cấp khi rê giữa các nhánh trong cùng Component tổng; chặn xử lý Tab mặc định cả khi nhấn/nhả. Thêm chuột phải → Chọn cấp khối con → Cấp 1/2/3… có dấu tích để chọn trực tiếp nếu phím không nhận. Giữ đổ khối con/Make Unique và các bảo vệ hiện có. Lưu model và mở lại SketchUp sau cài.",
+      "filename": "81ART_Clipboard_Material_v1.11.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.11.0.rbz",
+      "sha256": "3cd9a0dffc2c4f91920bf3c0a617aca2315b1ee7be94f11d5a31645e9665086b",
+      "size": 68731,
+      "notes": "Sửa đổ map mặt cong: tự gom mặt nối qua cạnh mềm thành mảng, trải UV theo cạnh chung, map/cover và ngẫu nhiên tính cho toàn mảng. Cọ từng mặt và đổ cả Group/Component đều hỗ trợ; có bật/tắt trong Hướng vân / Phủ map. Không vượt cạnh cứng hoặc cấp Group. Giữ một Undo và bảo vệ tải. Mảng kín/cong kép có thể có đường nối UV. Lưu model và mở lại SketchUp sau cài.",
       "min_core": "1.6.0"
     },
     {
