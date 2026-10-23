@@ -181,6 +181,18 @@
       "size": 24155,
       "min_core": "1.6.2",
       "notes": "Thêm Chọn mốc lát: click một điểm trên mặt/cạnh/đỉnh để lấy mốc viên đầu tiên, tự xem trước; X/Y dịch từ mốc. Có Mốc tự động, Esc hủy; đổi mặt/component không dùng nhầm mốc. Giữ 9 kiểu lát, 19 kích thước và tự nhập, cùng sửa lỗi sàn ngang 1.0.1. Cần Tools 1.6.2; mở lại SketchUp sau cập nhật."
+    },
+    {
+      "id": "unfillet",
+      "name": "81ART Khôi phục góc",
+      "version": "1.0.0",
+      "loader": "art81_unfillet.rb",
+      "filename": "81ART_Unfillet_v1.0.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Unfillet_v1.0.0.rbz",
+      "sha256": "b778ff4462f671133c63f2c28ddd0ed060d9bfa2cbf84c75b3cff63446940345",
+      "size": 14742,
+      "min_core": "1.6.0",
+      "notes": "Plugin mới: gỡ cung bo phẳng về góc nhọn. Rê xem trước, click chốt; cung Explode dùng cạnh chọn sẵn. Chỉ cung rời/biên một mặt, kiểm tra biên/lỗ, giữ vật liệu/map, một Undo và khóa Runtime. Chặn fillet khối 3D và Component dùng chung chưa Make Unique. Tích hợp toolbar 81ART. Tắt BO CONG.rb cũ nếu đang nạp riêng; lưu model và mở lại SketchUp sau cài. Chưa thử native Windows."
     }
   ]
 }
