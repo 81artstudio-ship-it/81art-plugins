@@ -41,13 +41,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.11.0",
+      "version": "1.12.0",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.11.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.11.0.rbz",
-      "sha256": "3cd9a0dffc2c4f91920bf3c0a617aca2315b1ee7be94f11d5a31645e9665086b",
-      "size": 68731,
-      "notes": "Sửa đổ map mặt cong: tự gom mặt nối qua cạnh mềm thành mảng, trải UV theo cạnh chung, map/cover và ngẫu nhiên tính cho toàn mảng. Cọ từng mặt và đổ cả Group/Component đều hỗ trợ; có bật/tắt trong Hướng vân / Phủ map. Không vượt cạnh cứng hoặc cấp Group. Giữ một Undo và bảo vệ tải. Mảng kín/cong kép có thể có đường nối UV. Lưu model và mở lại SketchUp sau cài.",
+      "filename": "81ART_Clipboard_Material_v1.12.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.12.0.rbz",
+      "sha256": "353af0aee87b0eeedf577bac67e5adcac0d9c217e39d1354ecff144de10b1435",
+      "size": 81428,
+      "notes": "Thêm Ngẫu nhiên giữa Component · Giữ liên kết: vật liệu từ ngoài, bộ 4/8 biến thể tái dùng, không Make Unique hay sửa hình học. Có Chuẩn bị Component (mặt Default, xác nhận toàn bộ bản cùng definition; UV cũ có thể đổi), Tạo lại bộ vân và lọc diện tích gồm biến thể. Chỉ Component từng tấm, không khối con và không đường dẫn qua cha dùng chung; map màu, ảnh biến thể tối đa 1024px. Giữ các chế độ cũ. Cài RBZ rồi mở lại SketchUp; chưa thử native Windows.",
       "min_core": "1.6.0"
     },
     {
@@ -184,15 +184,15 @@
     },
     {
       "id": "unfillet",
-      "name": "81ART Khôi phục góc",
-      "version": "1.0.0",
+      "name": "81ART Bo / Khôi phục góc",
+      "version": "1.1.0",
       "loader": "art81_unfillet.rb",
-      "filename": "81ART_Unfillet_v1.0.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Unfillet_v1.0.0.rbz",
-      "sha256": "b778ff4462f671133c63f2c28ddd0ed060d9bfa2cbf84c75b3cff63446940345",
-      "size": 14742,
+      "filename": "81ART_Unfillet_v1.1.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Unfillet_v1.1.0.rbz",
+      "sha256": "e78ee88398e9086959aa25f640907cd8d71222b8afb63b4abefd67b57214902b",
+      "size": 21386,
       "min_core": "1.6.0",
-      "notes": "Plugin mới: gỡ cung bo phẳng về góc nhọn. Rê xem trước, click chốt; cung Explode dùng cạnh chọn sẵn. Chỉ cung rời/biên một mặt, kiểm tra biên/lỗ, giữ vật liệu/map, một Undo và khóa Runtime. Chặn fillet khối 3D và Component dùng chung chưa Make Unique. Tích hợp toolbar 81ART. Tắt BO CONG.rb cũ nếu đang nạp riêng; lưu model và mở lại SketchUp sau cài. Chưa thử native Windows."
+      "notes": "Thêm Bo góc nhọn thành cung tròn: click chọn đỉnh, nhập R hoặc R;số đoạn (20;48), xem trước rồi click chốt. Có bán kính/số đoạn nhanh và tự nhập, nhớ thiết lập. Chung một nút với Khôi phục góc, giữ ID cập nhật; giữ vật liệu/UV, một Undo, kiểm tra biên/lỗ và Runtime. Chỉ đường/biên mặt phẳng; chưa fillet khối 3D, bo yêu cầu scale đều. Lưu model và mở lại SketchUp sau cài; chưa xác nhận native Windows."
     }
   ]
 }
