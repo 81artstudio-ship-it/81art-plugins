@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.6.2",
+      "version": "1.7.0",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.6.2.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.6.2.rbz",
-      "sha256": "a043c507310217a046c024c629a05ef6052d3d89e89b7bca486b9d98e02143bf",
-      "size": 94910,
-      "notes": "Sửa Xuất view/Scene tự chặn bởi cờ chuẩn bị xuất: phân biệt đúng tác vụ của chính plugin, giữ khóa tác vụ khác/bảo trì/khởi động lại. Đồng bộ nhãn cửa sổ xuất với Tools 1.6.2. Bao gồm bản sửa nút xám 1.6.1. Chỉ cập nhật lõi Tools, lưu model và mở lại SketchUp."
+      "filename": "81ART_Tools_v1.7.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.7.0.rbz",
+      "sha256": "4037e8e02573255c3c6452a912cbaac6eeda58bddcf91dcacbf64b67d580e519",
+      "size": 97049,
+      "notes": "Thêm chuẩn nạp lại plugin con trong phiên khi cả bản đang chạy và gói mới cùng khai báo lifecycle tương thích. Giữ command/wrapper, dừng UI cũ, kiểm tra bộ mã và hoàn tác tệp nếu lỗi; không bật lại mã nạp dở. Lõi và plugin chưa hỗ trợ vẫn cần mở lại. Cài Tools 1.7.0 + Clipboard 1.12.2 rồi mở lại một lần để kích hoạt nền. Chưa thử native Windows."
     },
     {
       "id": "styles",
@@ -41,13 +41,13 @@
     {
       "id": "clipboard_material",
       "name": "81ART Clipboard Material",
-      "version": "1.12.0",
+      "version": "1.12.2",
       "loader": "art81_clipboard_material.rb",
-      "filename": "81ART_Clipboard_Material_v1.12.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.12.0.rbz",
-      "sha256": "353af0aee87b0eeedf577bac67e5adcac0d9c217e39d1354ecff144de10b1435",
-      "size": 81428,
-      "notes": "Thêm Ngẫu nhiên giữa Component · Giữ liên kết: vật liệu từ ngoài, bộ 4/8 biến thể tái dùng, không Make Unique hay sửa hình học. Có Chuẩn bị Component (mặt Default, xác nhận toàn bộ bản cùng definition; UV cũ có thể đổi), Tạo lại bộ vân và lọc diện tích gồm biến thể. Chỉ Component từng tấm, không khối con và không đường dẫn qua cha dùng chung; map màu, ảnh biến thể tối đa 1024px. Giữ các chế độ cũ. Cài RBZ rồi mở lại SketchUp; chưa thử native Windows.",
+      "filename": "81ART_Clipboard_Material_v1.12.2.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Clipboard_Material_v1.12.2.rbz",
+      "sha256": "35c2a82bc7b8d14b9f9eba76887fc5aedb7b63f850c7bc2927de3f9ad23f3471",
+      "size": 74799,
+      "notes": "Đăng ký nạp lại trong phiên với Tools 1.7.0+: dừng cọ/bảng cũ, giữ cài đặt và nút công cụ. Sau lượt cài nền và mở lại một lần, cập nhật Clipboard cùng profile bằng 81ART dùng ngay. Giữ chức năng ngẫu nhiên Component menu nhanh 1.12.1, tự chuẩn bị có xác nhận và một Undo. Plugin khác chưa tự được coi là hỗ trợ; bản thay lifecycle vẫn cần mở lại. Chưa thử native Windows.",
       "min_core": "1.6.0"
     },
     {
