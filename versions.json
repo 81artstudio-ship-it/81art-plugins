@@ -209,14 +209,14 @@
     {
       "id": "render_sync",
       "name": "81ART Render Sync",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "loader": "art81_render_sync.rb",
-      "filename": "81ART_Render_Sync_Integrated_v1.1.2.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Render_Sync_Integrated_v1.1.2.rbz",
-      "sha256": "4c8f00a1645b11e2a45fa9e0de893470aa99d5d8b83bdad878299a70407b82c4",
-      "size": 12200,
+      "filename": "81ART_Render_Sync_Integrated_v1.1.3.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Render_Sync_Integrated_v1.1.3.rbz",
+      "sha256": "d017fd029ac40c2d4cff81b801eadb8d66a501fecfe74c98aec114d574aabca7",
+      "size": 10219,
       "min_core": "1.7.0",
-      "notes": "Sửa lỗi cập nhật: loader dùng extension.version, đồng bộ Runtime/UI/contract 1.1.2; tích hợp Tools 1.7.0 và lifecycle, không che lỗi. Gửi prompt mới cùng một callback, chặn gửi lặp, báo bận khi API chạy, nhận kết quả trên luồng UI và ghi file nguyên tử. Xuất view giữ tỷ lệ viewport. API gốc gpt-image-1, 1536x1024, tính phí riêng; chưa gọi API thật hoặc thử native Windows. Cài rồi mở lại SketchUp một lần."
+      "notes": "Gỡ toàn bộ gửi qua API khỏi UI/callback/mã HTTP/worker; chỉ chuẩn bị 2 ảnh và prompt rồi mở ChatGPT để tự tải lên. Báo rõ lỗi ảnh mẫu/đích, chuẩn hóa đường dẫn và truyền UTF8/base64, ghim trạng thái đầu bảng; thêm mở thư mục ảnh. Giữ xuất view đúng tỷ lệ và tích hợp/nạp lại Tools 1.7.0. Chọn lại 2 ảnh nếu đường dẫn cũ lỗi. Chưa thử native Windows."
     }
   ]
 }
