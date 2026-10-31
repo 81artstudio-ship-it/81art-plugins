@@ -197,14 +197,14 @@
     {
       "id": "render_sync",
       "name": "81ART Render Sync",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "loader": "art81_render_sync.rb",
-      "filename": "81ART_Render_Sync_Integrated_v1.1.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Render_Sync_Integrated_v1.1.0.rbz",
-      "sha256": "35503c03e3bff3efbe7f0a3196301937f0caa1d15412f9a95b4777378f333bfb",
-      "size": 5610,
+      "filename": "81ART_Render_Sync_Integrated_v1.1.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Render_Sync_Integrated_v1.1.1.rbz",
+      "sha256": "fbb2d3f8c040fc82495223b647ba9a96df14125004831a038bf0344098a78dd7",
+      "size": 5910,
       "min_core": "1.7.0",
-      "notes": "Plugin con Render Sync, tích hợp 81ART Tools. ChatGPT thủ công và OpenAI API tự động. Cần tải RBZ lên GitHub cùng versions.json. Chưa kiểm thử native Windows."
+      "notes": "Thêm art81_contract.json để trình cập nhật 81ART Tools 1.7.0 xác thực. Chưa kiểm thử trực tiếp trên Windows."
     }
   ]
 }
