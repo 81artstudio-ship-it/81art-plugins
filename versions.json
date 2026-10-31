@@ -193,6 +193,18 @@
       "size": 21386,
       "min_core": "1.6.0",
       "notes": "Thêm Bo góc nhọn thành cung tròn: click chọn đỉnh, nhập R hoặc R;số đoạn (20;48), xem trước rồi click chốt. Có bán kính/số đoạn nhanh và tự nhập, nhớ thiết lập. Chung một nút với Khôi phục góc, giữ ID cập nhật; giữ vật liệu/UV, một Undo, kiểm tra biên/lỗ và Runtime. Chỉ đường/biên mặt phẳng; chưa fillet khối 3D, bo yêu cầu scale đều. Lưu model và mở lại SketchUp sau cài; chưa xác nhận native Windows."
+    },
+    {
+      "id": "render_sync",
+      "name": "81ART Render Sync",
+      "version": "1.1.0",
+      "loader": "art81_render_sync.rb",
+      "filename": "81ART_Render_Sync_Integrated_v1.1.0.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Render_Sync_Integrated_v1.1.0.rbz",
+      "sha256": "35503c03e3bff3efbe7f0a3196301937f0caa1d15412f9a95b4777378f333bfb",
+      "size": 5610,
+      "min_core": "1.7.0",
+      "notes": "Plugin con Render Sync, tích hợp 81ART Tools. ChatGPT thủ công và OpenAI API tự động. Cần tải RBZ lên GitHub cùng versions.json. Chưa kiểm thử native Windows."
     }
   ]
 }
