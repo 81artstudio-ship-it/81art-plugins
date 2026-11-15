@@ -209,14 +209,14 @@
     {
       "id": "render_sync",
       "name": "81ART Render Sync",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "loader": "art81_render_sync.rb",
-      "filename": "81ART_Render_Sync_Integrated_v1.2.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Render_Sync_Integrated_v1.2.0.rbz",
-      "sha256": "40a23d941b467b4919dabe2184ed9b4dbb88a72c69952037fff9e89e82cd4f67",
-      "size": 11049,
+      "filename": "81ART_Render_Sync_Integrated_v1.2.1.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Render_Sync_Integrated_v1.2.1.rbz",
+      "sha256": "85f0e6079d7991994ac779267087cffbab44f3c3369f9feccf3c3d852a39fd08",
+      "size": 11084,
       "min_core": "1.8.2",
-      "notes": "Nút Render Sync kiểm tra tài khoản và mở website 81ART Render Sync. Yêu cầu Tools 1.8.2+; cài lõi trước rồi khởi động lại. Giữ công cụ chuẩn bị/xuất ảnh trong menu Extensions. Chưa thử trực tiếp trên SketchUp Windows."
+      "notes": "Sửa cấu trúc RBZ để tương thích cập nhật theo plugin: đưa hướng dẫn vào thư mục art81_render_sync. Nút mở web có kiểm tra tài khoản. Cần Tools 1.8.2+ và khởi động lại. Chưa thử trực tiếp trên SketchUp Windows."
     }
   ]
 }
