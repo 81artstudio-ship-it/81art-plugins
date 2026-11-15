@@ -6,13 +6,13 @@
     {
       "id": "tools",
       "name": "81ART Tools",
-      "version": "1.7.0",
+      "version": "1.8.0",
       "loader": "art81_tools.rb",
-      "filename": "81ART_Tools_v1.7.0.rbz",
-      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.7.0.rbz",
-      "sha256": "4037e8e02573255c3c6452a912cbaac6eeda58bddcf91dcacbf64b67d580e519",
-      "size": 97049,
-      "notes": "Thêm chuẩn nạp lại plugin con trong phiên khi cả bản đang chạy và gói mới cùng khai báo lifecycle tương thích. Giữ command/wrapper, dừng UI cũ, kiểm tra bộ mã và hoàn tác tệp nếu lỗi; không bật lại mã nạp dở. Lõi và plugin chưa hỗ trợ vẫn cần mở lại. Cài Tools 1.7.0 + Clipboard 1.12.2 rồi mở lại một lần để kích hoạt nền. Chưa thử native Windows."
+      "filename": "81ART_Tools_v1.8.0_Account_Preview.rbz",
+      "url": "https://raw.githubusercontent.com/81artstudio-ship-it/81art-plugins/main/81ART_Tools_v1.8.0_Account_Preview.rbz",
+      "sha256": "5b967f7d8949b786a1957705bbc4d70b80b637f96d33acc42e94ad75eccbd4be",
+      "size": 100190,
+      "notes": "Bản thử tích hợp tài khoản với web 81ART Render Sync. Đăng nhập qua trình duyệt tại Extensions > 81ART · Tài khoản; kiểm tra quyền trực tuyến, khóa/mở email chung trên web. Cần Internet và khởi động lại SketchUp sau cài. Chưa thử trực tiếp trên SketchUp Windows; chưa giới hạn một phiên/thiết bị. Bản lõi cũ không bị khóa từ xa."
     },
     {
       "id": "styles",
